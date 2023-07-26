@@ -1,0 +1,209 @@
+
+
+a{
+    text-decoration: none;
+    color: white;
+
+}
+
+
+
+.colorStyling{
+    background-color: rgb(243, 237, 237);
+}
+
+.colorStyleing-1{
+    background-color: #dce8eb;
+}
+
+.colorStyle-2{
+    background: #efefef;
+}
+
+.colorStyle-3{
+    background: #dce8eb;
+}
+
+.colorStyle-4{
+    background: #232323;
+    color: white;
+}
+
+.colorStyle-5{
+    background: rgb(80, 112, 147);
+}
+
+.carousel-item{
+    background: black;
+    height: 25rem;
+}
+
+.margin-styling{
+    margin-top: -25px;
+}
+
+.centerText{
+    
+    display: flex;
+    justify-content: center;
+    align-items: left;
+    flex-direction: column;
+    height: 25rem;
+    color: white;
+    text-align: left;
+    margin-left: 20%;
+    
+   
+}
+
+
+
+.iconStyle{
+    width: 25px;
+    height: 25px;
+    background: white;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.iconStyle:hover{
+    background: orange;
+}
+
+.iconStyle-1{
+    width: 25px;
+    height: 25px;
+    background: white;
+    border-radius: 20px;
+   color: black;
+   display: inline-flex;
+   justify-content: center;
+   align-items: center;
+}
+
+
+
+.backgroundImage{
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(image/app.jpg);
+    height: 32rem;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.backgroundImage-1{
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(image/app-1.jpg);
+    height: 32rem;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.backgroundImage-2{
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(image/app-2.jpg);
+    height: 32rem;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+
+.card{
+    width: 100%;
+    margin: auto;
+
+}
+
+.card-img-top{
+    height: 50vh;
+    width: 100%;
+}
+
+.cardStyle{
+    margin-left: 20px;
+    font-size: 15px;
+}
+
+
+
+.upStyling{
+    font-size: 35px;
+    background: white;
+    width: 45px;
+    height: 45px;
+    border-radius: 20px;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    background-color: #ff8484;
+    
+}
+
+
+.flexStyle{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.icon-around{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 85px;
+    height: 80px;
+    border-radius: 25px;
+    background: #dce8eb;
+    font-size: 50px;
+}
+
+
+
+.teamStyle{
+    width: 130px;
+    border-radius: 120px;
+}
+
+.flex-team{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.iconFlex-style{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+/* .flexStyleing-1{
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    flex-direction: column;
+}
+ */
+
+.controling {
+    width: 291px;
+    height: 46px;
+    border-radius: 13px;
+    padding: 5px;
+    box-shadow: 1px 1px 5px black;
+}
+
+.flexing{
+    display: flex;
+    justify-content: center;
+    align-items: ;
+    flex-direction: column;
+}
